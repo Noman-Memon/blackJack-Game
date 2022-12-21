@@ -66,6 +66,5 @@ function newCard() {
     sum += newCard;
     cards.push(newCard);
     renderGame();
-    // console.log("Drawing a new card from the deck!");
   }
 }
